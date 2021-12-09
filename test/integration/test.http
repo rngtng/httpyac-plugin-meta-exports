@@ -1,0 +1,9 @@
+###
+# @name setId
+# @exports id = response.id
+GET http://localhost:8080/1
+
+###
+# @name getId
+# @ref setId
+GET http://localhost:8080/{{id}}
