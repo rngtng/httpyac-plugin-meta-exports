@@ -12,7 +12,7 @@ npm install httpyac-plugin-meta-exports --save
 
 ## Usage
 
-Plugin adds support for an additional meta data field `@export`. With that, a response value export to global variable gets a nice reading oneliner. See:
+Plugin adds support for an additional meta data field `@exports`. With that, a response value export to global variable gets a nice reading oneliner. See:
 
 
 ```
